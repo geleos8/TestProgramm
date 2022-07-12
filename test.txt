@@ -1,0 +1,120 @@
+10
+type:
+14
+question:
+Вопрос 1
+answers:
+Ответ 11
+Ответ 21
+Ответ 31
+Ответ 41
+correct:
+2
+
+type:
+24
+question:
+Вопрос 2
+answers:
+Ответ 12
+Ответ 22
+Ответ 32
+Ответ 42
+correct:
+1
+
+type:
+14
+question:
+Вопрос 3
+answers:
+Ответ 1
+Ответ 2
+Ответ 3
+Ответ 4
+correct:
+2
+
+type:
+14
+question:
+Вопрос 4
+answers:
+Ответ 1
+Ответ 2
+Ответ 3
+Ответ 4
+correct:
+2
+
+type:
+14
+question:
+Вопрос 5
+answers:
+Ответ 1
+Ответ 2
+Ответ 3
+Ответ 4
+correct:
+2
+
+type:
+14
+question:
+Вопрос 6
+answers:
+Ответ 1
+Ответ 2
+Ответ 3
+Ответ 4
+correct:
+2
+
+type:
+14
+question:
+Вопрос 7
+answers:
+Ответ 1
+Ответ 2
+Ответ 3
+Ответ 4
+correct:
+2
+
+type:
+14
+question:
+Вопрос 8
+answers:
+Ответ 1
+Ответ 2
+Ответ 3
+Ответ 4
+correct:
+2
+
+type:
+14
+question:
+Вопрос 9
+answers:
+Ответ 1
+Ответ 2
+Ответ 3
+Ответ 4
+correct:
+2
+
+type:
+14
+question:
+Вопрос 10
+answers:
+Ответ 1
+Ответ 2
+Ответ 3
+Ответ 4
+correct:
+2
